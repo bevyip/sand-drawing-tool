@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Sand Drawing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="toolbar">
+        <button onclick="setPen('pawprint')" class="selected">
+            <img src="img/pawprints.png" alt="Paw Prints">
+        </button>
+        <button onclick="setPen('sand')">
+            <img src="img/finger.png" alt="Draw In Sand">
+        </button>
+        <button onclick="setPen('castle')">
+            <img src="img/castle.png" alt="Build A Sand Castle">
+        </button>
+        <button onclick="setPen('eraser')">
+            <img src="img/shovel.png" alt="Shovel Sand">
+        </button>
+    </div>
+    <canvas id="drawingCanvas"></canvas>
+    <script src="script.js"></script>
+</body>
+
+</html>

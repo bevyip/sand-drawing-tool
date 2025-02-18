@@ -1,0 +1,62 @@
+body,
+html {
+  overflow: hidden;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("img/surprise.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 10px;
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+  z-index: 100;
+  box-sizing: border-box;
+}
+
+.toolbar button {
+  background: none;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.toolbar button:active {
+  background-color: #7fbf7f;
+  transform: scale(1.1);
+}
+
+.toolbar button.selected {
+  background-color: #7fbf7f;
+  color: white;
+}
+
+.toolbar button img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
