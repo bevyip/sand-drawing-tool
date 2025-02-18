@@ -7,7 +7,8 @@ This tool replicates the experience of drawing in the sand. Users can select dif
 - **Paw Prints**: Leave paw prints in the sand.
 - **Draw in Sand**: Draw freehand in the sand.
 - **Build Sand Castles**: Add sand castles to the canvas.
-- **Shovel Sand**: Remove sand or erase your creations. Hint: A surprise awaits you beneath the sand!
+- **Shovel Sand**: Remove sand or erase your creations.
+  **Hint:** _A surprise awaits you beneath the sand!_ 👀
 
 Feel free to explore the different features and enjoy the sand-drawing experience!
 
