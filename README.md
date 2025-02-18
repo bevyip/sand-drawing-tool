@@ -12,4 +12,6 @@ This tool replicates the experience of drawing in the sand. Users can select dif
 
 Feel free to explore the different features and enjoy the sand-drawing experience!
 
+[Documentation](https://bevyip.notion.site/Week-4-18e5b3e7f9e7809aa8a2e26c89125629?pvs=4)
+
 ![Screenshot](img/screen-eg.png/)
