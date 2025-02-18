@@ -14,4 +14,7 @@ Feel free to explore the different features and enjoy the sand-drawing experienc
 
 [Documentation](https://bevyip.notion.site/Week-4-18e5b3e7f9e7809aa8a2e26c89125629?pvs=4)
 
-![Screenshot](img/screen-eg.png/)
+![eg1](img/1.gif/)
+![eg2](img/2.gif/)
+![eg3](img/3.gif/)
+![eg4](img/4.gif/)
